@@ -1,12 +1,12 @@
 {
-  "name": "Uzurion-Launcher",
+  "name": "blackice-launcher",
   "version": "2.0.7",
-  "productName": "Uzurion Launcher",
+  "productName": "blackice-launcher",
   "description": "Launcher Mincraft custom (crack, premium)",
   "main": "src/index.html",
   "author": "Luuxis",
   "window": {
-    "title": "Uzurion update",
+    "title": "blackice-update",
     "width": 400,
     "height": 500,
     "frame": false,
@@ -34,7 +34,7 @@
   },
   "license": "CC0",
   "build": {
-    "appId": "Uzurion Launcher",
+    "appId": "blackice Launcher",
     "nwVersion": "0.60.0",
     "packed": true,
     "targets": [
@@ -62,7 +62,7 @@
     "overriddenProperties": {
       "main": "app/index.html",
       "window": {
-        "title": "Uzurion update",
+        "title": "blackice update",
         "width": 400,
         "height": 500,
         "frame": false,
@@ -73,13 +73,13 @@
     },
     "outputPattern": "${NAME}-${PLATFORM}",
     "win": {
-      "productName": "Uzurion Launcher",
-      "companyName": "Uzurion Launcher",
+      "productName": "blackice Launcher",
+      "companyName": "blackice Launcher",
       "copyright": "copyright",
       "icon": "src/assets/images/icons/icon.ico"
     },
     "mac": {
-      "displayName": "Uzurion-Launcher",
+      "displayName": "blackice-Launcher",
       "copyright": "copyright",
       "plistStrings": {
         "CFBundleIdentifier": "Uzurion-Launcher"
